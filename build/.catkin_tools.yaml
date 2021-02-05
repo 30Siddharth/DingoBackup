@@ -1,0 +1,6 @@
+devel_space: /home/urtiger/covid-1984-ws/devel
+install: false
+install_space: /home/urtiger/covid-1984-ws/install
+profile: default
+source_space: /home/urtiger/covid-1984-ws/src
+workspace: /home/urtiger/covid-1984-ws

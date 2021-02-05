@@ -1,0 +1,8 @@
+prefix=/home/urtiger/covid-1984-ws/devel
+
+Name: rain_unity
+Description: Description of rain_unity
+Version: 0.0.0
+Cflags: -I/home/urtiger/covid-1984-ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs message_runtime std_msgs

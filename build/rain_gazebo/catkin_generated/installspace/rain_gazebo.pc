@@ -1,0 +1,8 @@
+prefix=/home/urtiger/covid-1984-ws/install
+
+Name: rain_gazebo
+Description: Description of rain_gazebo
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

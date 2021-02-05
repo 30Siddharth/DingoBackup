@@ -1,0 +1,8 @@
+prefix=/home/urtiger/covid-1984-ws/install
+
+Name: rain_moveit_config
+Description: Description of rain_moveit_config
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

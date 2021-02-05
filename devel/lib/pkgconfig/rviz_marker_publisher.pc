@@ -1,0 +1,8 @@
+prefix=/home/urtiger/covid-1984-ws/devel
+
+Name: rviz_marker_publisher
+Description: Description of rviz_marker_publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

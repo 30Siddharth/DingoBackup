@@ -1,0 +1,5 @@
+[35m[1mScanning dependencies of target ur_driver_gencfg[0m
+[100%] [34m[1mGenerating dynamic reconfigure files from cfg/URDriver.cfg: /home/urtiger/covid-1984-ws/devel/include/ur_driver/URDriverConfig.h /home/urtiger/covid-1984-ws/devel/lib/python2.7/dist-packages/ur_driver/cfg/URDriverConfig.py[0m
+Generating reconfiguration files for URDriver in ur_driver
+Wrote header file in /home/urtiger/covid-1984-ws/devel/include/ur_driver/URDriverConfig.h
+[100%] Built target ur_driver_gencfg
